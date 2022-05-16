@@ -17,8 +17,8 @@ For my dashboards and pyqt design, I have been heavily influenced by the work of
 
 ## Currently working with
 <img align="left" alt="react" src="https://img.shields.io/static/v1?label=Python&message= &color=blue" />
+<img align="left" alt="react" src="https://img.shields.io/static/v1?label=Pandas&message= &color=blue" />
 <img align="left" alt="react" src="https://img.shields.io/static/v1?label=PyQT5/PySide2&message=Only old projects &color=orange" />
 <img align="left" alt="react" src="https://img.shields.io/static/v1?label=PyQT6/PySide6&message=Newer projects &color=green" />
-
 <br>
 <br>
