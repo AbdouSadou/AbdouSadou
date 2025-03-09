@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Data+Analyst+and+Python+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-The goal of my profile is just to share some of my projects that interest me on dashboards,<br>data analysis and machine learning tools, mainly using Python.<br><br>🔭 Currently I am a university lecturer and practitioner in data analysis<br>🌱 These days I am learning about containerisation techniques<br>🤓 Fun fact: my first ever program was a shape surface calculator, written in C !
+The goal of my profile is just to share some of my projects that interest me on dashboards,<br>data analysis and machine learning tools, mainly using Python.<br><br>🔭 Currently I am a university lecturer in data analysis<br>🌱 These days I am learning about containerisation techniques<br>🤓 Fun fact: my first ever program was a shape surface calculator, written in C !
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sadou.m.abdou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asadou/) 
